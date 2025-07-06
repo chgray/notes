@@ -61,6 +61,8 @@ theme:
 
 nav:
     - Introduction: index.md
+    - Posts:
+      - AI Document Editor: Blog.AI.DocumentEditor.md
 
 plugins:
     - search
