@@ -1,5 +1,7 @@
 # Building that AI Editor I've always wanted
 
+TLDR:  I've always wanted a document editor;  [so I vibe coded one on the 4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/)
+
 In my first week of college, we took a technical writing assessment. I wrote
 about a 3D CAD program I was building for the HP 48GX calculator to help rescue
 squads find lost cavers. Back then, Windows 95 was new, most computers lacked
@@ -64,5 +66,5 @@ programmer. Meanwhile, feel free to try my editor—I'll keep it running as long
 as it's not abused.
 
 1. 95% vibe coded, using languages/libraries/techniques where I'm already skilled
-1. Uses Azure Search for content
+1. Uses Azure AI Search (free tier) for content
 1. Uses AzureAI for LLM
