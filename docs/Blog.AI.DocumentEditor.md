@@ -70,6 +70,7 @@ as it's not abused.
 1. 95% vibe coded, using languages/libraries/techniques where I'm already skilled
 1. Uses Azure AI Search (free tier) for content
 1. Uses AzureAI for LLM
+1. Used VSCode, CoPilot plugin
 
 This editor may not matter to many, but for me, combining different tools and AI
 has helped in unexpected ways. Thanks to everyone who shared ideas and
@@ -82,9 +83,17 @@ feel free - I'll keep it publicly available as long as it's not being abused.
 
 ## Examples
 
-Lower some examples. I found interesting and useful and are inspiring. Edit. And. New content.
+Here are a few examples that I found both interesting and inspiring. These demonstrate how the editor can help identify areas for improvement and highlight strengths in your writing.
 
-## Example : Needs Improvmenet
+- **Example 1:** The AI editor pointed out a section where my explanation was
+  unclear, suggesting specific ways to clarify my argument.  **I'll improve this!**
+
+- **Example 2:** The AI editor recognized a strong summary, noting that it
+  effectively captured the main points and provided actionable next steps. **I'm happy!**
+
+These examples show how an AI-powered editor can offer practical, actionable feedback—helping you refine your writing and communicate your ideas more clearly.
+
+## Example 1 : Improvement Needed
 
 ![...true...](./orig_media/Blog.AI.DocumentEditor.Example.png)
 
