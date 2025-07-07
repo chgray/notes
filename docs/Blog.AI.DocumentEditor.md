@@ -1,6 +1,6 @@
 # Building that AI Editor I've always wanted
 
-TLDR:  I've always wanted a document editor;  [so I vibe coded one on the 4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/)
+TLDR:  I've always wanted to have access to a professional to help me edit documents;  [so I vibe coded one on the 4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/)
 
 In my first week of college, we took a technical writing assessment. I wrote
 about a 3D CAD program I was building for the HP 48GX calculator to help rescue
