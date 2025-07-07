@@ -83,7 +83,12 @@ feel free - I'll keep it publicly available as long as it's not being abused.
 
 ## Examples
 
-Here are a few examples that I found both interesting and inspiring. These demonstrate how the editor can help identify areas for improvement and highlight strengths in your writing.
+Here are a few examples that I found both interesting and useful.  I 100% agree
+with the AI "Document Editor",  they didn't cost much money, I could work with
+immediate feedback, and let me respect the time of my friends, so they can help
+me with more challenging problems.
+
+Win-Win-Win. **I'll make the changes!  expect a PR shortly!**
 
 - **Example 1:** The AI editor pointed out a section where my explanation was
   unclear, suggesting specific ways to clarify my argument.  **I'll improve this!**
