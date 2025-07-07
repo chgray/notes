@@ -10,7 +10,9 @@ thing.
 
 I distinctly remember my technical writing professor inviting me to his office.
 
-This wasn't the sort of invitation you wanted.
+***This wasn't the sort of invitation you wanted.***
+
+![alt text](./orig_media/Blog.AI.DocumentEditor.Editor.png)
 
 Unexpectedly, He started with a very sincere comment. He said that I had more to
 say than anyone in his class;  but that I also really needed more help than most
@@ -68,3 +70,24 @@ as it's not abused.
 1. 95% vibe coded, using languages/libraries/techniques where I'm already skilled
 1. Uses Azure AI Search (free tier) for content
 1. Uses AzureAI for LLM
+
+This editor may not matter to many, but for me, combining different tools and AI
+has helped in unexpected ways. Thanks to everyone who shared ideas and
+inspiration this holiday weekend!
+
+I finally have the editor I've always wanted!  If you'd like to play with it,
+feel free - I'll keep it publicly available as long as it's not being abused.
+
+[Visit my AI Editor!](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/)
+
+## Examples
+
+Lower some examples. I found interesting and useful and are inspiring. Edit. And. New content.
+
+## Example : Needs Improvmenet
+
+![...true...](./orig_media/Blog.AI.DocumentEditor.Example.png)
+
+## Example2 : Nailed it.
+
+![...true](./orig_media/Blog.AI.DocumentEditor.Summary.png)
