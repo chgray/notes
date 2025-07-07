@@ -1,8 +1,9 @@
-# Building that AI Editor I've always wanted
+# Using a RAG/LLM as an Editorial Assistant
 
-TLDR:  I've always wanted access to a professional who could help me edit
-documents;  [so I vibe coded one (using a scoped RAG+LLM) on the
-4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/).
+**TL;DR:** I've always wanted a professional editor to help refine my
+documents—someone available to offer advice and feedback, to spot gaps. [So, over the 4th of
+July, I "vibe coded"
+one](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/).
 
 In my first week of college, we took a technical writing assessment. I wrote
 about a 3D CAD program I was building for the HP 48GX calculator to help rescue
