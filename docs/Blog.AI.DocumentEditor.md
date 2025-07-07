@@ -1,6 +1,8 @@
 # Building that AI Editor I've always wanted
 
-TLDR:  I've always wanted access to a professional who could help me edit documents;  [so I vibe coded one on the 4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/)
+TLDR:  I've always wanted access to a professional who could help me edit
+documents;  [so I vibe coded one (using a scoped RAG+LLM) on the
+4'th](https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/).
 
 In my first week of college, we took a technical writing assessment. I wrote
 about a 3D CAD program I was building for the HP 48GX calculator to help rescue
@@ -11,8 +13,6 @@ thing.
 I distinctly remember my technical writing professor inviting me to his office.
 
 ***This wasn't the sort of invitation you wanted.***
-
-![alt text](./orig_media/Blog.AI.DocumentEditor.Editor.png)
 
 Unexpectedly, He started with a very sincere comment. He said that I had more to
 say than anyone in his class;  but that I also really needed more help than most
