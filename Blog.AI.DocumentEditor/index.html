@@ -9,7 +9,7 @@
 <link href=".." rel="prev"/>
 <link href="../assets/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.6.1, mkdocs-material-9.6.15" name="generator"/>
-<title>AI Document Editor - CHrisGray</title>
+<title>AI Document Editor - ChrisGray</title>
 <link href="../assets/stylesheets/main.342714a4.min.css" rel="stylesheet"/>
 <link href="../assets/stylesheets/palette.06af60db.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -31,7 +31,7 @@
 </div>
 <header class="md-header" data-md-component="header">
 <nav aria-label="Header" class="md-header__inner md-grid">
-<a aria-label="CHrisGray" class="md-header__button md-logo" data-md-component="logo" href=".." title="CHrisGray">
+<a aria-label="ChrisGray" class="md-header__button md-logo" data-md-component="logo" href=".." title="ChrisGray">
 <svg viewbox="0 0 89 89" xmlns="http://www.w3.org/2000/svg">
 <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z"></path>
 <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5"></path>
@@ -46,7 +46,7 @@
 <div class="md-header__ellipsis">
 <div class="md-header__topic">
 <span class="md-ellipsis">
-            CHrisGray
+            ChrisGray
           </span>
 </div>
 <div class="md-header__topic" data-md-component="header-topic">
@@ -145,7 +145,7 @@
 <div class="md-sidebar__inner">
 <nav aria-label="Navigation" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
 <label class="md-nav__title" for="__drawer">
-<a aria-label="CHrisGray" class="md-nav__button md-logo" data-md-component="logo" href=".." title="CHrisGray">
+<a aria-label="ChrisGray" class="md-nav__button md-logo" data-md-component="logo" href=".." title="ChrisGray">
 <svg viewbox="0 0 89 89" xmlns="http://www.w3.org/2000/svg">
 <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z"></path>
 <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5"></path>
@@ -153,7 +153,7 @@
 <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25"></path>
 </svg>
 </a>
-    CHrisGray
+    ChrisGray
   </label>
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item">
@@ -181,12 +181,48 @@
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item md-nav__item--active">
 <input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+<span class="md-ellipsis">
+    AI Document Editor
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
 <a class="md-nav__link md-nav__link--active" href="./">
 <span class="md-ellipsis">
     AI Document Editor
     
   </span>
 </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#examples">
+<span class="md-ellipsis">
+      Examples
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example-needs-improvmenet">
+<span class="md-ellipsis">
+      Example : Needs Improvmenet
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example2-nailed-it">
+<span class="md-ellipsis">
+      Example2 : Nailed it.
+    </span>
+</a>
+</li>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -200,6 +236,33 @@
 <div class="md-sidebar__scrollwrap">
 <div class="md-sidebar__inner">
 <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#examples">
+<span class="md-ellipsis">
+      Examples
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example-needs-improvmenet">
+<span class="md-ellipsis">
+      Example : Needs Improvmenet
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example2-nailed-it">
+<span class="md-ellipsis">
+      Example2 : Nailed it.
+    </span>
+</a>
+</li>
+</ul>
 </nav>
 </div>
 </div>
@@ -207,13 +270,15 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <h1 id="building-that-ai-editor-ive-always-wanted">Building that AI Editor I've always wanted</h1>
+<p>TLDR:  I've always wanted a document editor;  <a href="https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/">so I vibe coded one on the 4'th</a></p>
 <p>In my first week of college, we took a technical writing assessment. I wrote
 about a 3D CAD program I was building for the HP 48GX calculator to help rescue
 squads find lost cavers. Back then, Windows 95 was new, most computers lacked
 floating point instructions (very few had GPUs), and pocket computers weren't a
 thing.</p>
 <p>I distinctly remember my technical writing professor inviting me to his office.</p>
-<p>This wasn't the sort of invitation you wanted.</p>
+<p><strong><em>This wasn't the sort of invitation you wanted.</em></strong></p>
+<p><img alt="alt text" src="../orig_media/Blog.AI.DocumentEditor.Editor.png"/></p>
 <p>Unexpectedly, He started with a very sincere comment. He said that I had more to
 say than anyone in his class;  but that I also really needed more help than most
 to express them clearly.</p>
@@ -258,9 +323,21 @@ programmer. Meanwhile, feel free to try my editor—I'll keep it running as long
 as it's not abused.</p>
 <ol>
 <li>95% vibe coded, using languages/libraries/techniques where I'm already skilled</li>
-<li>Uses Azure Search for content</li>
+<li>Uses Azure AI Search (free tier) for content</li>
 <li>Uses AzureAI for LLM</li>
 </ol>
+<p>This editor may not matter to many, but for me, combining different tools and AI
+has helped in unexpected ways. Thanks to everyone who shared ideas and
+inspiration this holiday weekend!</p>
+<p>I finally have the editor I've always wanted!  If you'd like to play with it,
+feel free - I'll keep it publicly available as long as it's not being abused.</p>
+<p><a href="https://dynamictelmetryaidoceditor-gke4b6fdeshsgvep.canadacentral-01.azurewebsites.net/">Visit my AI Editor!</a></p>
+<h2 id="examples">Examples</h2>
+<p>Lower some examples. I found interesting and useful and are inspiring. Edit. And. New content.</p>
+<h2 id="example-needs-improvmenet">Example : Needs Improvmenet</h2>
+<p><img alt="...true..." src="../orig_media/Blog.AI.DocumentEditor.Example.png"/></p>
+<h2 id="example2-nailed-it">Example2 : Nailed it.</h2>
+<p><img alt="...true" src="../orig_media/Blog.AI.DocumentEditor.Summary.png"/></p>
 </article>
 </div>
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
