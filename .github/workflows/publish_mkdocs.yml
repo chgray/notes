@@ -39,9 +39,10 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with mkdocs
-        run:
-          ls \
-          mkdocs build -c -d ./_site
+        run: ls
+
+      - name: B2
+        run: mkdocs build -c -d ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
