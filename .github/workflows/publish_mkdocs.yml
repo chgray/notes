@@ -38,9 +38,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll
-        run: mkdocs build -s -c -d ./_site
-        
+      - name: Build with mkdocs
+        run:
+          ls \
+          mkdocs build -c -d ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
