@@ -103,6 +103,6 @@ These examples show how an AI-powered editor can offer practical, actionable fee
 
 ![...true...](./orig_media/Blog.AI.DocumentEditor.Example.png)
 
-## Example2 : Nailed it.
+## Example2 : Nailed it
 
 ![...true](./orig_media/Blog.AI.DocumentEditor.Summary.png)
