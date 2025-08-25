@@ -1,4 +1,4 @@
-site_name: CHrisGray
+site_name: ChrisGray
 site_description: 'Chris Gray'
 
 # Info : https://squidfunk.github.io/mkdocs-material/
@@ -61,6 +61,8 @@ theme:
 
 nav:
     - Introduction: index.md
+    - Posts:
+      - AI Document Editor: Blog.AI.DocumentEditor.md
 
 plugins:
     - search
